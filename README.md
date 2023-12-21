@@ -26,11 +26,17 @@ AWS Certified Solutions Architect - Associate 자격증 취득을 위한 스터�
                   <img alt="박민균" src="https://avatars.githubusercontent.com/parkmingyun99" width="80" />            
               </a>
           </td>
+        <td align="center">
+              <a href="https://github.com/StopSoo">                 
+                  <img alt="정지수" src="https://avatars.githubusercontent.com/StopSoo" width="80" />            
+              </a>
+          </td>
       </tr>
       <tr>
           <td align="center">김혜연</td>
           <td align="center">박고운</td>
           <td align="center">박민균</td>
+        <td align="center">정지수</td>
       </tr>
   </table>
 </div>
